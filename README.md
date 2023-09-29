@@ -6,6 +6,9 @@ A [Vite](https://vitejs.dev/) plugin that uses the [node-notifier](https://githu
 
 [![Build Status](https://travis-ci.com/RoccoC/webpack-build-notifier.svg?branch=master)](https://travis-ci.com/RoccoC/webpack-build-notifier)
 
+![compiling.png](src/images/compiling.png)
+![compiling.png](src/images/success.png)
+
 ## Install
 
 ```shell
