@@ -40,6 +40,14 @@ export default defineConfig({
 });
 ```
 
+exe. with no sounds:
+
+```js
+import ViteBuildNotifierPlugin from "@brokenice/vite-build-notifier"
+export default defineConfig({
+  plugins: [ViteBuildNotifierPlugin(null,false,true)]
+});
+
 Config Options
 --------------
 
